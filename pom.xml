@@ -20,7 +20,7 @@
 
     <groupId>org.openshift.cloudenablement.eap</groupId>
     <artifactId>websocket-chat</artifactId>
-    <version>1.2.0.Final</version>
+    <version>1.2.0</version>
     <packaging>war</packaging>
     <name>Tomcat websocket example</name>
     <description>A websocket example that can be used with Tomcat 7 and Tomcat 8</description>
@@ -38,7 +38,7 @@
 
         <!-- version dependencies -->
         <version.websocket.api>1.1</version.websocket.api>
-        <version.jboss.logging>3.1.4.GA-redhat-2</version.jboss.logging>
+        <version.jboss.logging>3.1.4.GA</version.jboss.logging>
 
         <!-- maven-compiler-plugin -->
         <maven.compiler.target>1.6</maven.compiler.target>
